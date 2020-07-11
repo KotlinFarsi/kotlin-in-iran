@@ -3,56 +3,26 @@
     {
       "name": "Android",
       "repos": [
-        {
-          "address": "",
-          "description": "",
-          "website" : ""
-        }
       ]
     },
     {
       "name": "Backend",
       "repos": [
-        {
-          "address": "",
-          "description": "",
-          "website": ""
-        }
       ]
     },
     {
       "name": "Frontend",
       "repos": [
-        {
-          "address": "",
-          "description": "",
-          "website": ""
-        }
       ]
     },
     {
       "name": "Other",
       "repos": [
-        {
-          "address": "",
-          "description": "",
-          "website": ""
-        }
       ]
     }
   ],
   "devs": [
-    {
-      "address": "",
-      "website": "",
-      "twitter": ""
-    }
   ],
   "articles": [
-    {
-      "title": "",
-      "description": "",
-      "link": ""
-    }
   ]
 }
