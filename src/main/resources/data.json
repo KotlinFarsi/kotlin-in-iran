@@ -3,11 +3,6 @@
     {
       "name": "Android",
       "repos": [
-        {
-          "address": "test1/atest1",
-          "description": "test1 description",
-          "website" : ""
-        }
       ]
     },
     {
