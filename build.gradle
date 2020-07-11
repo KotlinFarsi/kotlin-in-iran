@@ -11,7 +11,7 @@ buildscript {
 apply plugin: 'kotlin'
 
 group 'com.kotlinfarsi'
-version '0.0.1'
+version '0.1.0'
 
 repositories {
     mavenCentral()
@@ -26,7 +26,7 @@ dependencies {
     implementation 'com.beust:klaxon:5.0.1'
 }
 
-task exportToProjectDir(type: Copy) {
-    from file("$buildDir/resources/main/README.md")
-    into file("$projectDir")
-}
+//task exportToProjectDir(type: Copy) {
+//    from file("$buildDir/resources/main/README.md")
+//    into file("$projectDir")
+//}

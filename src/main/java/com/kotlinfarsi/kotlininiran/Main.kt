@@ -21,7 +21,7 @@ fun main() {
             .replace("{{devs}}", devsContent)
             .replace("{{articles}}", articlesContent)
 
-    File(Resources.getResource("README.md").path).writeText(finalMarkdown)
+    File("./README.md").writeText(finalMarkdown)
 
 }
 
