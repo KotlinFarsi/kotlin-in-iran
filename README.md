@@ -10,7 +10,6 @@ Android
 
 | Name | Description | 🌍 |
 | --- | --- | --- |
-| [@test1](https://github.com/test1)/[**atest1**](https://github.com/test1/atest1) | test1 description |  |
 
 Backend
 
