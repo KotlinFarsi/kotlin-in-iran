@@ -12,14 +12,14 @@ fun main() {
     val content: Content = Klaxon().parse(jsonFile)!!
 
     val reposContent = getReposContent(content.categories)
-    val devsContent = getDevsContent(content.devs)
-    val articlesContent = getArticlesContent(content.articles)
+//    val devsContent = getDevsContent(content.devs)
+//    val articlesContent = getArticlesContent(content.articles)
 
     val finalMarkdown = File(Resources.getResource("template.md").path)
             .readText()
             .replace("{{repos}}", reposContent)
-            .replace("{{devs}}", devsContent)
-            .replace("{{articles}}", articlesContent)
+//            .replace("{{devs}}", devsContent)
+//            .replace("{{articles}}", articlesContent)
 
     File("./README.md").writeText(finalMarkdown)
 

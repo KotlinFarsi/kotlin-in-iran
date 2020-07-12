@@ -3,6 +3,121 @@
     {
       "name": "Android",
       "repos": [
+        {
+          "address": "worldsnas/AIO",
+          "description": "A movie explore App featuring MVI, Modularization, and other latest trends on mobile development.",
+          "website": "https://worldsnas.com/aio-setup-a-side-project/"
+        },
+        {
+          "address": "MohammadRezaei92/IranMapSvg",
+          "description": "Iran map android library",
+          "website": ""
+        },
+        {
+          "address": "SaeedMasoumi/sweep-gson",
+          "description": "(un)wrapping extensions for Gson.",
+          "website": ""
+        },
+        {
+          "address": "adibfara/WatchTower",
+          "description": "\uD83D\uDDFCObserve OKHttp API Calls With Request And Response Details Right In Your Browser!",
+          "website": ""
+        },
+        {
+          "address": "SirLordPouya/PersianLinearDatePicker",
+          "description": "Persian DatePicker for Android applications",
+          "website": ""
+        },
+        {
+          "address": "worldsnas/slider",
+          "description": "Infinite Slider library built on top of epoxy",
+          "website": ""
+        },
+        {
+          "address": "MohammadRezaei92/IranMapSvg",
+          "description": "Iran map android library",
+          "website": ""
+        },
+        {
+          "address": "PHELAT/NavigationResult",
+          "description": "`startActivityForResult` but for fragments! (Addon for Jetpack's Navigation component)",
+          "website": "https://android.jlelse.eu/navigateup-with-bundle-c595ff6d91ba"
+        },
+        {
+          "address": "oneHamidreza/Meow-Framework-MVVM",
+          "description": "Develop MVVM & Material Android App Easy",
+          "website": ""
+        },
+        {
+          "address": "oky2abbas/reactor",
+          "description": "Reactor is key value database and is a great alternative to Shared Preferences.",
+          "website": ""
+        },
+        {
+          "address": "alibardide5124/CardViewPlus",
+          "description": "A library to make animated CardView elevation in Android",
+          "website": ""
+        },
+        {
+          "address": "PHELAT/Poolakey",
+          "description": "Android In-App Billing SDK for Cafe Bazaar App Store",
+          "website": ""
+        },
+        {
+          "address": "marjandn/progress-styles",
+          "description": "progress funny styles :))",
+          "website": ""
+        },
+        {
+          "address": "farzadfarazmand/EmptyStateLibrary",
+          "description": "An Android Library to show different states",
+          "website": ""
+        },
+        {
+          "address": "persian-calendar/DroidPersianCalendar",
+          "description": "Android Persian Calendar / تقویم فارسی اندروید",
+          "website": ""
+        },
+        {
+          "address": "adibfara/Lives",
+          "description": "Lives - Android LiveData Extensions for Kotlin and Java",
+          "website": ""
+        },
+        {
+          "address": "Tenkei/Calendor",
+          "description": "Calendor is a simple material calendar designed with functionality and ease of use in mind",
+          "website": ""
+        },
+        {
+          "address": "oky2abbas/animator",
+          "description": "This library is for adding smooth animation and coloring to the FloatingActionButton library android.",
+          "website": ""
+        },
+        {
+          "address": "worldsnas/StarPlayer",
+          "description": "A player to learn from!",
+          "website": ""
+        },
+        {
+          "address": "rezaiyan/LevelProgressBar",
+          "description": "A Custom View With Circular Progress | Segmented & Continuous |",
+          "website": ""
+        },
+        {
+          "address": "SaeedMasoumi/mock-location-automator",
+          "description": "Allow to mock locations during Android instrumentation tests.",
+          "website": ""
+        },
+        {
+          "address": "MohammedAlaaMorsi/RangeSeekBar",
+          "description": "Android Range Seekbar library that support Min & Max Value for API level >= 16 and support Step Value",
+          "website": ""
+        },
+        {
+          "address": "SirLordPouya/StarWars",
+          "description": "an Android application to search StarWars characters",
+          "website": ""
+        }
       ]
     },
     {
@@ -13,6 +128,16 @@
     {
       "name": "Frontend",
       "repos": [
+        {
+          "address": "sinadarvi/what-am-i-saying",
+          "description": "Translating Finglish to Farsi using js library in kotlin-react app for educational purposes.",
+          "website": ""
+        },
+        {
+          "address": "sinadarvi/tic-tac-toe",
+          "description": "Tic Toc Toe project created with kotlin-react for educational purposes.",
+          "website": ""
+        }
       ]
     },
     {

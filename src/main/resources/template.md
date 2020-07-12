@@ -1,20 +1,11 @@
 # Kotlin in Iran
 
-One of KotlinFarsi's responsibility is to support and bring up Kotlin Repos and Kotlin Developers so for this porpuse we publish this repo so kotliners can show their work.
+One of KotlinFarsi's responsibility is to support and bring up Kotlin Repos and Kotlin Developers so for this porpuse we publish this repo so kotliners can show their works.
 
-> lists are in alphabetical order
+> If you want to contribute, note that you should only update `data.json` in resources folder.
 
-# Repos
+### Repos
 
 {{repos}}
 
-# Kotlin Developers
-For being in this list you should have at least one repo contains Kotlin Language in no matter what platform
-
-{{devs}}
-
-# Articles
-Kotlin Articles made in iran. (no matter your article is in persian or english)
-
-{{articles}}
 
