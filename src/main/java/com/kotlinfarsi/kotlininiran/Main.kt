@@ -33,10 +33,10 @@ fun getReposContent(categories: List<Category>) =
                 | Name | Description | 🌍 |
                 | --- | --- | --- |
                 ${category.repos
-                    .sortedBy { it.address.substring(it.address.indexOf("/") + 1) }
+                    .sortedBy { it.address.substring(it.address.indexOf("/") + 1 ).toUpperCase() }
                     .joinToString("") { repo ->
 
-                        val login = repo.address.substring(0, repo.address.indexOf("/"))
+                        val login = repo.address.substring(0, repo.address.indexOf("/") )
                         val loginHyper = "[@$login](https://github.com/$login)"
                         val repoName = repo.address.substring(repo.address.indexOf("/") + 1)
                         val repoHyper = "[**$repoName**](https://github.com/${repo.address})"
@@ -51,7 +51,7 @@ fun getDevsContent(devs: List<Dev>) = """
             | Name | Twitter | 🌍 |
             | --- | --- | --- |
             ${devs
-        .sortedBy { it.address }
+        .sortedBy { it.address.toUpperCase() }
         .joinToString("") { dev ->
             val addressHyper = "[@${dev.address}](https://github.com/${dev.address})"
             val twitterLink = dev.twitter.ifNotBlank { "[@${dev.twitter}](https://twitter.com/${dev.twitter})" }
@@ -65,7 +65,7 @@ fun getArticlesContent(articles: List<Article>) = """
             | Article | Description |
             | --- | --- |
             ${articles
-        .sortedBy { it.title }
+        .sortedBy { it.title.toUpperCase() }
         .joinToString("") { article ->
             val articleHyper = "[${article.title}](${article.link})"
 

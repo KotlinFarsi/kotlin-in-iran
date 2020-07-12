@@ -34,11 +34,6 @@
           "website": ""
         },
         {
-          "address": "MohammadRezaei92/IranMapSvg",
-          "description": "Iran map android library",
-          "website": ""
-        },
-        {
           "address": "PHELAT/NavigationResult",
           "description": "`startActivityForResult` but for fragments! (Addon for Jetpack's Navigation component)",
           "website": "https://android.jlelse.eu/navigateup-with-bundle-c595ff6d91ba"
