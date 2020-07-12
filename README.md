@@ -17,7 +17,7 @@ Android
 | [@farzadfarazmand](https://github.com/farzadfarazmand)/[**EmptyStateLibrary**](https://github.com/farzadfarazmand/EmptyStateLibrary) | An Android Library to show different states |  |
 | [@MohammadRezaei92](https://github.com/MohammadRezaei92)/[**IranMapSvg**](https://github.com/MohammadRezaei92/IranMapSvg) | Iran map android library |  |
 | [@MohammadRezaei92](https://github.com/MohammadRezaei92)/[**IranMapSvg**](https://github.com/MohammadRezaei92/IranMapSvg) | Iran map android library |  |
-| [@rezaiyan](https://github.com/rezaiyan)/[**LevelProgressBar**](https://github.com/rezaiyan/LevelProgressBar) | A Custom View With Circular Progress | Segmented & Continuous | |  |
+| [@rezaiyan](https://github.com/rezaiyan)/[**LevelProgressBar**](https://github.com/rezaiyan/LevelProgressBar) | A Custom View With Circular Progress, Segmented & Continuous  |  |
 | [@adibfara](https://github.com/adibfara)/[**Lives**](https://github.com/adibfara/Lives) | Lives - Android LiveData Extensions for Kotlin and Java |  |
 | [@oneHamidreza](https://github.com/oneHamidreza)/[**Meow-Framework-MVVM**](https://github.com/oneHamidreza/Meow-Framework-MVVM) | Develop MVVM & Material Android App Easy |  |
 | [@PHELAT](https://github.com/PHELAT)/[**NavigationResult**](https://github.com/PHELAT/NavigationResult) | `startActivityForResult` but for fragments! (Addon for Jetpack's Navigation component) | [:arrow_upper_right:](https://android.jlelse.eu/navigateup-with-bundle-c595ff6d91ba) |
