@@ -30,6 +30,7 @@ Android
 | [@worldsnas](https://github.com/worldsnas)/[**slider**](https://github.com/worldsnas/slider) | Infinite Slider library built on top of epoxy |  |
 | [@worldsnas](https://github.com/worldsnas)/[**StarPlayer**](https://github.com/worldsnas/StarPlayer) | A player to learn from! |  |
 | [@SirLordPouya](https://github.com/SirLordPouya)/[**StarWars**](https://github.com/SirLordPouya/StarWars) | an Android application to search StarWars characters |  |
+| [@imaNNeoFighT](https://github.com/imaNNeoFighT)/[**StepBarView**](https://github.com/imaNNeoFighT/StepBarView) | Step Bar View (make your own customized StepBar) |  |
 | [@SaeedMasoumi](https://github.com/SaeedMasoumi)/[**sweep-gson**](https://github.com/SaeedMasoumi/sweep-gson) | (un)wrapping extensions for Gson. |  |
 | [@adibfara](https://github.com/adibfara)/[**WatchTower**](https://github.com/adibfara/WatchTower) | 🗼Observe OKHttp API Calls With Request And Response Details Right In Your Browser! |  |
 
