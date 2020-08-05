@@ -112,6 +112,11 @@
           "address": "SirLordPouya/StarWars",
           "description": "an Android application to search StarWars characters",
           "website": ""
+        },
+        {
+          "address": "imaNNeoFighT/StepBarView",
+          "description": "Step Bar View (make your own customized StepBar)",
+          "website": ""
         }
       ]
     },
