@@ -32,6 +32,7 @@ Android
 | [@SirLordPouya](https://github.com/SirLordPouya)/[**StarWars**](https://github.com/SirLordPouya/StarWars) | an Android application to search StarWars characters |  |
 | [@imaNNeoFighT](https://github.com/imaNNeoFighT)/[**StepBarView**](https://github.com/imaNNeoFighT/StepBarView) | Step Bar View (make your own customized StepBar) |  |
 | [@SaeedMasoumi](https://github.com/SaeedMasoumi)/[**sweep-gson**](https://github.com/SaeedMasoumi/sweep-gson) | (un)wrapping extensions for Gson. |  |
+| [@PHELAT](https://github.com/PHELAT)/[**Tedu**](https://github.com/PHELAT/Tedu) | Todo app but minimal, open-source, and free. |  |
 | [@adibfara](https://github.com/adibfara)/[**WatchTower**](https://github.com/adibfara/WatchTower) | 🗼Observe OKHttp API Calls With Request And Response Details Right In Your Browser! |  |
 
 Backend
