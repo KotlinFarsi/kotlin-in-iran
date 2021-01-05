@@ -6,7 +6,7 @@ One of KotlinFarsi's responsibility is to support and bring up Kotlin Repos and 
 
 ### Repos
 
-Android
+Android/JVM
 
 | Name | Description | 🌍 |
 | --- | --- | --- |
@@ -17,6 +17,7 @@ Android
 | [@persian-calendar](https://github.com/persian-calendar)/[**DroidPersianCalendar**](https://github.com/persian-calendar/DroidPersianCalendar) | Android Persian Calendar / تقویم فارسی اندروید |  |
 | [@farzadfarazmand](https://github.com/farzadfarazmand)/[**EmptyStateLibrary**](https://github.com/farzadfarazmand/EmptyStateLibrary) | An Android Library to show different states |  |
 | [@MohammadRezaei92](https://github.com/MohammadRezaei92)/[**IranMapSvg**](https://github.com/MohammadRezaei92/IranMapSvg) | Iran map android library |  |
+| [@janbarari](https://github.com/janbarari)/[**KEvent**](https://github.com/janbarari/KEvent) | A brand new communication library in Android & Kotlin (similar to Eventbus) |  |
 | [@rezaiyan](https://github.com/rezaiyan)/[**LevelProgressBar**](https://github.com/rezaiyan/LevelProgressBar) | A Custom View With Circular Progress, Segmented & Continuous  |  |
 | [@adibfara](https://github.com/adibfara)/[**Lives**](https://github.com/adibfara/Lives) | Lives - Android LiveData Extensions for Kotlin and Java |  |
 | [@oneHamidreza](https://github.com/oneHamidreza)/[**Meow-Framework-MVVM**](https://github.com/oneHamidreza/Meow-Framework-MVVM) | Develop MVVM & Material Android App Easy |  |
