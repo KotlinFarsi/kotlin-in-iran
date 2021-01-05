@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "name": "Android",
+      "name": "Android/JVM",
       "repos": [
         {
           "address": "worldsnas/AIO",
@@ -58,6 +58,11 @@
           "description": "Android In-App Billing SDK for Cafe Bazaar App Store",
           "website": ""
         },
+        {
+          "address": "janbarari/KEvent",
+          "description": "A brand new communication library in Android & Kotlin (similar to Eventbus)",
+          "website": ""
+        }
         {
           "address": "marjandn/progress-styles",
           "description": "progress funny styles :))",
