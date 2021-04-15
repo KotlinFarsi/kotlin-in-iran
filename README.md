@@ -12,6 +12,7 @@ Android/JVM
 | --- | --- | --- |
 | [@worldsnas](https://github.com/worldsnas)/[**AIO**](https://github.com/worldsnas/AIO) | A movie explore App featuring MVI, Modularization, and other latest trends on mobile development. | [:arrow_upper_right:](https://worldsnas.com/aio-setup-a-side-project/) |
 | [@oky2abbas](https://github.com/oky2abbas)/[**animator**](https://github.com/oky2abbas/animator) | This library is for adding smooth animation and coloring to the FloatingActionButton library android. |  |
+| [@yamin8000](https://github.com/yamin8000)/[**A_Glitch_in_the_Data**](https://github.com/yamin8000/A_Glitch_in_the_Data) | a no-nonsense android library for form validation/validate and string matching |  |
 | [@Tenkei](https://github.com/Tenkei)/[**Calendor**](https://github.com/Tenkei/Calendor) | Calendor is a simple material calendar designed with functionality and ease of use in mind |  |
 | [@alibardide5124](https://github.com/alibardide5124)/[**CardViewPlus**](https://github.com/alibardide5124/CardViewPlus) | A library to make animated CardView elevation in Android |  |
 | [@persian-calendar](https://github.com/persian-calendar)/[**DroidPersianCalendar**](https://github.com/persian-calendar/DroidPersianCalendar) | Android Persian Calendar / تقویم فارسی اندروید |  |
@@ -25,6 +26,7 @@ Android/JVM
 | [@PHELAT](https://github.com/PHELAT)/[**NavigationResult**](https://github.com/PHELAT/NavigationResult) | `startActivityForResult` but for fragments! (Addon for Jetpack's Navigation component) | [:arrow_upper_right:](https://android.jlelse.eu/navigateup-with-bundle-c595ff6d91ba) |
 | [@SirLordPouya](https://github.com/SirLordPouya)/[**PersianLinearDatePicker**](https://github.com/SirLordPouya/PersianLinearDatePicker) | Persian DatePicker for Android applications |  |
 | [@PHELAT](https://github.com/PHELAT)/[**Poolakey**](https://github.com/PHELAT/Poolakey) | Android In-App Billing SDK for Cafe Bazaar App Store |  |
+| [@yamin8000](https://github.com/yamin8000)/[**PrettyPersianNumbers**](https://github.com/yamin8000/PrettyPersianNumbers) | simple android library to convert a number to word for Persian/Farsi language written in Kotlin  |  |
 | [@marjandn](https://github.com/marjandn)/[**progress-styles**](https://github.com/marjandn/progress-styles) | progress funny styles :)) |  |
 | [@MohammedAlaaMorsi](https://github.com/MohammedAlaaMorsi)/[**RangeSeekBar**](https://github.com/MohammedAlaaMorsi/RangeSeekBar) | Android Range Seekbar library that support Min & Max Value for API level >= 16 and support Step Value |  |
 | [@oky2abbas](https://github.com/oky2abbas)/[**reactor**](https://github.com/oky2abbas/reactor) | Reactor is key value database and is a great alternative to Shared Preferences. |  |
