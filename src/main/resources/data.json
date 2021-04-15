@@ -127,6 +127,16 @@
           "address": "PHELAT/Tedu",
           "description": "Todo app but minimal, open-source, and free.",
           "website": ""
+        },
+        {
+          "address": "yamin8000/A_Glitch_in_the_Data",
+          "description": "a no-nonsense android library for form validation/validate and string matching",
+          "website": ""
+        },
+        {
+          "address": "yamin8000/PrettyPersianNumbers",
+          "description": "simple android library to convert a number to word for Persian/Farsi language written in Kotlin ",
+          "website": ""
         }
       ]
     },
