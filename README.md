@@ -17,6 +17,7 @@ Android/JVM
 | [@alibardide5124](https://github.com/alibardide5124)/[**CardViewPlus**](https://github.com/alibardide5124/CardViewPlus) | A library to make animated CardView elevation in Android |  |
 | [@persian-calendar](https://github.com/persian-calendar)/[**DroidPersianCalendar**](https://github.com/persian-calendar/DroidPersianCalendar) | Android Persian Calendar / تقویم فارسی اندروید |  |
 | [@farzadfarazmand](https://github.com/farzadfarazmand)/[**EmptyStateLibrary**](https://github.com/farzadfarazmand/EmptyStateLibrary) | An Android Library to show different states |  |
+| [@yamin8000](https://github.com/yamin8000)/[**Fare**](https://github.com/yamin8000/Fare) | android app for finding Iran's cities taxi fares |  |
 | [@MohammadRezaei92](https://github.com/MohammadRezaei92)/[**IranMapSvg**](https://github.com/MohammadRezaei92/IranMapSvg) | Iran map android library |  |
 | [@janbarari](https://github.com/janbarari)/[**KEvent**](https://github.com/janbarari/KEvent) | A brand new communication library in Android & Kotlin (similar to Eventbus) |  |
 | [@rezaiyan](https://github.com/rezaiyan)/[**LevelProgressBar**](https://github.com/rezaiyan/LevelProgressBar) | A Custom View With Circular Progress, Segmented & Continuous  |  |
