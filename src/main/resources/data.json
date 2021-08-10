@@ -62,7 +62,7 @@
           "address": "janbarari/KEvent",
           "description": "A brand new communication library in Android & Kotlin (similar to Eventbus)",
           "website": ""
-        }
+        },
         {
           "address": "marjandn/progress-styles",
           "description": "progress funny styles :))",
@@ -136,6 +136,11 @@
         {
           "address": "yamin8000/PrettyPersianNumbers",
           "description": "simple android library to convert a number to word for Persian/Farsi language written in Kotlin ",
+          "website": ""
+        },
+        {
+          "address": "yamin8000/Fare",
+          "description": "android app for finding Iran's cities taxi fares",
           "website": ""
         }
       ]
